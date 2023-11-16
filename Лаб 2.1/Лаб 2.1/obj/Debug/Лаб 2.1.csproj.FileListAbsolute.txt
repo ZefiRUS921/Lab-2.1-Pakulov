@@ -1,0 +1,2 @@
+C:\Users\ucheb\source\repos\Лаб 2.1\Лаб 2.1\obj\Debug\Лаб 2.1.csproj.AssemblyReference.cache
+C:\Users\ucheb\source\repos\Лаб 2.1\Лаб 2.1\obj\Debug\Лаб 2.1.csproj.CoreCompileInputs.cache
